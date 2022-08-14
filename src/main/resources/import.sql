@@ -6,6 +6,7 @@ INSERT INTO article(id, title, content) VALUES(3, '다다다다', '3333');
 INSERT INTO article(id, title, content) VALUES(4, '당신의 인생 영화는?', '댓글 ㄱ');
 INSERT INTO article(id, title, content) VALUES(5, '당신의 소울 푸드는?', '댓글 ㄱㄱ');
 INSERT INTO article(id, title, content) VALUES(6, '당신의 취미는?', '댓글 ㄱㄱㄱ');
+
 -- 22강: comment 더미 데이터
 ---- 4번 게시글의 댓글들
 INSERT INTO comment(id, article_id, nickname, body) VALUES(1, 4, 'Park', '굳 윌 헌팅');
